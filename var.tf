@@ -20,5 +20,5 @@ variable "tag_name" {
 
 variable "ami_id" {
   description = "Ubuntu AMI in ap-south-1"
-  default     = "YOUR_VALID_AMI_ID"
+  default     = "ami-01a00762f46d584a1"
 }
